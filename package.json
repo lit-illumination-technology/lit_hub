@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lit-illumination-technology/lit_hub#readme",
   "dependencies": {
     "@google-cloud/iot": "^2.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "google-auth-library": "^6.1.4"
   }
 }
